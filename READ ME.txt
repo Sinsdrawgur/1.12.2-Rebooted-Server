@@ -1,6 +1,5 @@
 Lycanitesmobs 1.12.2 ver 2.0.7.2 
-
-IS REQUIRED 
+IS REQUIRED FOR THE SERVER IF YOU USE GIT HUB FOR THE PACK
 
 Please download it at forge 
 HERE: https://www.curseforge.com/minecraft/mc-mods/lycanites-mobs/files/2935745
